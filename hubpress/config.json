@@ -29,8 +29,8 @@
     ]
   },
   "site": {
-    "title": "FerCyberpunk",
-    "description": "InfoSec, Blockchain, Web Development and BassMusic!",
+    "title": "",
+    "description": "",
     "logo": "",
     "cover": "",
     "delay": "",
@@ -41,11 +41,11 @@
   },
   "socialnetwork": {
     "email": "",
-    "github": "",
-    "twitter": "",
+    "github": "https://github.com/fercyberpunk",
+    "twitter": "tw.cyberpunk.pw",
     "facebook": "",
     "googleplus": "",
-    "instagram": "",
+    "instagram": "https://www.instagram.com/fercyberpunk/",
     "pinterest": "",
     "flickr": "",
     "linkedin": "",
