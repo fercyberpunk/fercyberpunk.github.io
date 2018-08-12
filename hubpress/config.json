@@ -31,7 +31,7 @@
   "site": {
     "title": "FerCyberpunk",
     "description": "InfoSec, Blockchain, Web Development and BassMusic!",
-    "logo": "https://raw.githubusercontent.com/fercyberpunk/fercyberpunk.github.io/master/images/i.png",
+    "logo": "",
     "cover": "https://raw.githubusercontent.com/fercyberpunk/fercyberpunk.github.io/master/images/b.jpg",
     "delay": "",
     "postsPerPage": "",
