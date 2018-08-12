@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://fercyberpunk.github.io",
-    "hubpress": "https://fercyberpunk.github.io",
-    "theme": "//fercyberpunk.github.io/themes/casper",
-    "images": "https://fercyberpunk.github.io/images"
+    "site": "http://blog.cyberpunk.pw",
+    "hubpress": "https://blog.cyberpunk.pw",
+    "theme": "//blog.cyberpunk.pw/themes/casper",
+    "images": "http://blog.cyberpunk.pw/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
