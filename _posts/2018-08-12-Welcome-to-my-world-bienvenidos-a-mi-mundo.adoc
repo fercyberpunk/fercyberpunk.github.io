@@ -1,5 +1,5 @@
 = Hello World!
-:hp-image: /covers/cover.png
+:hp-image: /images/b.jpg
 :published_at: 2018-08-12
 :hp-tags: Blog, Post, Hola
 :hp-alt-title: Welcome to my world, bienvenidos a mi mundo!
