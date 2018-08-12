@@ -10,7 +10,7 @@
   },
   "urls": {
     "site": "https://fercyberpunk.github.io",
-    "hubpress": "http://blog.cyberpunk.pw",
+    "hubpress": "https://fercyberpunk.github.io",
     "theme": "//fercyberpunk.github.io/themes/casper",
     "images": "https://fercyberpunk.github.io/images"
   },
