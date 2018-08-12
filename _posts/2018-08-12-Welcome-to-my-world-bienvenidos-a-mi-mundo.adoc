@@ -1,0 +1,11 @@
+= Hello World!
+:hp-image: /covers/cover.png
+:published_at: 2018-08-12
+:hp-tags: Blog, Post, Hola
+:hp-alt-title: Welcome to my world, bienvenidos a mi mundo!
+
+*Mi pequeño espacio en internet*
+
+Por aqui publicare todo lo que me parezca interesante, como primer post dejo este muy buen track :)
+
+video::vrPfwGwoG3w
